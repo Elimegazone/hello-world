@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>정보를 입력하시오.</p>
+    <p>Put your records on!</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
