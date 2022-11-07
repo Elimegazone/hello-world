@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>Put your records on! Tell me your favorate songs.</p>
+    <p>Put your records on! Tell me your favorate songs. You go ahead, let your hair down.</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
