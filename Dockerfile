@@ -1,4 +1,4 @@
-FROM tomcat:latest
-RUN cp -R  /usr/local/tomcat/webapps.dist/*  /usr/local/tomcat/webapps
-COPY ./*.war /usr/local/tomcat/webapps
+FROM adoptopenjdk/openjdk14
+ADD spring-music-1.0.jar app.jar
+CMD java -jar app.jar
 
